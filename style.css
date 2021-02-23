@@ -141,7 +141,7 @@ body {
   animation: drop 1.5s ease;
 }
 
-#social-medias {
+#social-media {
   display: flex;
   width: 40%;
   margin: auto;
@@ -152,7 +152,7 @@ body {
   animation: drop 1.5s ease;
 }
 
-#social-media {
+.icon {
   font-size: 50px;
   color: #ecc8afcc;
 }
